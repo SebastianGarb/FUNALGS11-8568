@@ -26,5 +26,7 @@ for (int x = 0; x < edificio2.Length; x++) {
     }
 }
 
+char d;
 Console.WriteLine("Correcion 1002233");
 Console.WriteLine("JUjalag");
+
