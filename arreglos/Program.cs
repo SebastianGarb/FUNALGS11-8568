@@ -25,3 +25,6 @@ for (int x = 0; x < edificio2.Length; x++) {
         break;
     }
 }
+
+Console.WriteLine("Correcion 1002233");
+Console.ReadLine("Elamigos");
